@@ -56,10 +56,9 @@ nav a:hover {
   }
 
 .hero-text {
-  text-align: right;
   position: absolute;
   top: 8%;
-  left: 65%;
+  left: 10%;
   color: #5f2233;
 }
 
@@ -68,7 +67,7 @@ header#index {
 }
 
 header#work {
-  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("../img/studio-ease-629080-unsplash.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.2)), url("../img/sergi-kabrera-705414-unsplash.jpg");
 }
 
 header#new {
@@ -102,6 +101,7 @@ h1   {
   font-size:48px;
   font-weight: bolder;
   text-align:center;
+  text-shadow: 2px 2px black;
 }
 
 h2 {
